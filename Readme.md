@@ -1,2 +1,1 @@
-Tensorflow Project
-This project is ...
+Tensorflow
